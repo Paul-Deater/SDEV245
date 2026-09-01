@@ -11,7 +11,7 @@ Keeping users and administrators separate in the information they can view and i
 import tkinter as tk
 from tkinter import messagebox
 
-# dictionary format: Username, password, role
+# dictionary format: Username, password, role- True == Admin  False == User
 Users = {
     "Matt@company.com" : ["short124", True],
     "Tom@company.com" :["tall124", False]
