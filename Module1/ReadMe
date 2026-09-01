@@ -1,1 +1,5 @@
-
+The following is for the Mini-App file
+Application has a login screen and has two path ways depending the users role.
+Answer to part 4:
+This app shows the Confidentiality aspect of the CIA triad, through its use distinct protected routes depending the role of the individual logging in. 
+Keeping users and administrators separate in the information they can view and interact with, which is indicative of confidentiality. 
