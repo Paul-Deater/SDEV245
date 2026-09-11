@@ -1,0 +1,3 @@
+Program contains two functions that demonstrates basic symmetric and asymmetric encryption respectively using the Cryptography library for Python. 
+With the symmetric creating a single key and then encrypting and decrypting a message.
+While the asymmetric creates a private and public key, encrypting the message with the public key and then decrypting it with the private key.
