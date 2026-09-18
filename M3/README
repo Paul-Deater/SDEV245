@@ -1,0 +1,1 @@
+The App asks for input from the user, which can be either text or a file, to be hashed and then asks for another input which is encrypted and decrypted using a Caesar cipher.
