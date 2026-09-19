@@ -1,3 +1,5 @@
 My solution upholds confidentiality by encrypting the user’s input via symmetric encryption and decryption using AES obfuscating the data. It upholds integrity through hash creation and comparison, creating SHA-256 using HMAC to ensure that the data remains consistent through the program. Availability is maintained through displaying to the user a clear progression of what steps are currently underway and printing back their input string.
 
 Entropy and key generation’s role in my solution is in the keys generated within my program that are used for symmetric encryption and hashing. Generating random strings of bytes that allow for secure encryption and decryption of the input string. They help to ensure confidentiality and integrity through random hard-to-crack algorithms.
+
+Link to screen recording: https://ivytech.instructuremedia.com/embed/726c0041-07b2-4ab2-95ba-5c8a5080e6c3
