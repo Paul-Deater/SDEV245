@@ -1,2 +1,5 @@
 The application should detect API keys, Passwords, Tokens, and Private keys using regex, first determining wether a file or directory has been inputted. Then scans for the hard coded secrets.
 To use initiliaze the file along with the path you want to have searched.
+
+Screen Recording Link:
+https://ivytech.instructuremedia.com/embed/f392506c-ec36-4721-a559-c1a069285cfb
